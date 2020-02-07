@@ -9,6 +9,7 @@
 body{
     color: black;
     background: white;
+    overflow-x: hidden;
 }
 
 #home{
